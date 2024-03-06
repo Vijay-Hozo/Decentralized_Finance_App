@@ -25,3 +25,5 @@ Welcome to the Decentralized Finance (DeFi) website project! This project is bui
 3. Navigate to the project directory: `cd defi-website`
 4. Install dependencies: `npm install`
 5. Start the development server: `npm start`
+
+Have a nice day...
